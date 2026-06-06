@@ -43,7 +43,7 @@ Contém processos gerais de limpeza:
 - remoção de inconsistências;
 - preparação das variáveis.
 
-
+---
 ### 4. Visualização dos dados
 
 - `AEDposlimpeza.ipynb`
