@@ -11,25 +11,29 @@ Responsável pela leitura dos dados iniciais e primeira exploração:
 - análise da estrutura dos dados.
 
 ---
+### 2. Análise exploratóra antes da limpeza
 
-### 2. Limpeza dos dados
+-  `AEDprelimpeza.ipynb`
+
+
+### 3. Limpeza dos dados
 
 Notebooks responsáveis pela preparação dos dados:
 
 Limpeza por períodos:
 
-- `limpeza_2015.ipynb`
-- `limpeza_2016.ipynb`
-- `limpeza_2017.ipynb`
-- `limpeza_2018.ipynb`
-- `limpeza_2019.ipynb`
-- `limpeza_2020.ipynb`
-- `limpeza_2021.ipynb`
-- `limpeza_2022.ipynb`
-- `limpeza_2023.ipynb`
-- `limpeza_2024.ipynb`
-- `limpeza_2025.ipynb`
-- `limpeza_2026.ipynb`
+- `Analise_2015.ipynb`
+- `Analise_2016.ipynb`
+- `Analise_2017.ipynb`
+- `Analise_2018.ipynb`
+- `Analise_2019.ipynb`
+- `Analise_2020.ipynb`
+- `Analise_2021.ipynb`
+- `Analise_2022.ipynb`
+- `Analise_2023.ipynb`
+- `Analise_2024.ipynb`
+- `Analise_2025.ipynb`
+- `Analise_2026.ipynb`
 
 - `Limpeza_geral.ipynb`
 
@@ -40,7 +44,7 @@ Contém processos gerais de limpeza:
 - preparação das variáveis.
 
 
-### 3. Preparação de dados específicos
+### 4. Visualização dos dados
 
 - `AEDposlimpeza.ipynb`
 
@@ -51,13 +55,13 @@ Análise exploratória após limpeza (AED):
 
 ---
 
-### 4. Previsão valor de adjudicação
+### 5. Previsão valor de adjudicação
 
 - `prev_limpo.ipynb`
 
 
 
-### 5. Padrões de risco
+### 6. Padrões de risco
 
 - `padroes_risco_fraude.ipynb`
 
@@ -69,7 +73,7 @@ Análise de padrões relacionados com risco e fraude:
 
 
 
-### 6. Tratamento e análise de outliers
+### 7. Tratamento e análise de outliers
 
 - `Estatistica_outliers_.ipynb`
 
