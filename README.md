@@ -84,7 +84,4 @@ Aplicação de métodos para deteção e tratamento de outliers.
 
 ---
 
-1. Clonar o repositório:
 
-```bash
-git clone <link-do-repositorio>
