@@ -13,7 +13,7 @@ Responsável pela leitura dos dados iniciais e primeira exploração:
 ---
 ### 2. Análise antes da limpeza
 
-Análise exploratóra antes da limpeza
+Análise exploratóra antes da limpeza:
 
 -  `AEDprelimpeza.ipynb`
 
