@@ -15,12 +15,7 @@ Responsável pela leitura dos dados iniciais e primeira exploração:
 
 -  `AEDprelimpeza.ipynb`
 
----
-### 3. Limpeza dos dados
-
-Notebooks responsáveis pela preparação dos dados:
-
-Limpeza por períodos:
+Análise por períodos:
 
 - `Analise_2015.ipynb`
 - `Analise_2016.ipynb`
@@ -34,6 +29,10 @@ Limpeza por períodos:
 - `Analise_2024.ipynb`
 - `Analise_2025.ipynb`
 - `Analise_2026.ipynb`
+---
+### 3. Limpeza dos dados
+
+Notebooks responsáveis pela preparação dos dados:
 
 - `Limpeza_geral.ipynb`
 
