@@ -11,7 +11,9 @@ Responsável pela leitura dos dados iniciais e primeira exploração:
 - análise da estrutura dos dados.
 
 ---
-### 2. Análise exploratóra antes da limpeza
+### 2. Análise antes da limpeza
+
+Análise exploratóra antes da limpeza
 
 -  `AEDprelimpeza.ipynb`
 
