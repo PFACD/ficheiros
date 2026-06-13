@@ -13,11 +13,11 @@ Responsável pela leitura dos dados iniciais e primeira exploração:
 ---
 ### 2. Análise antes da limpeza
 
-Análise exploratóra antes da limpeza:
+Análise exploratória antes da limpeza:
 
 -  `AEDprelimpeza.ipynb`
 
-Análise por períodos:
+Análise das inconstâncias por períodos:
 
 - `Analise_2015.ipynb`
 - `Analise_2016.ipynb`
